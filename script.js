@@ -45,9 +45,18 @@ function scrollToTop() {
 }
 
 /**
- * មុខងារបើកទៅកាន់គេហទំព័រប្រព័ន្ធ AI របស់លោក ហួកាំង ថារ៉ា
+ * មុខងារបើកទៅកាន់គេហទំព័រប្រព័ន្ធ AI ផ្លូវការរបស់លោក ហួកាំង ថារ៉ា
+ * Opens the official Sentient AI Interface system in a new browser tab.
  */
 function openAiSystem() {
     window.open("https://tharahuokaing.github.io/ai/", "_blank");
+}
+
+/**
+ * មុខងារបើកទៅកាន់គេហទំព័រប្រៀបធៀបរវាង AGI និង Sentience របស់លោក ហួកាំង ថារ៉ា
+ * Opens the specialized AGI vs. Sentience paradigm comparison platform in a new browser tab.
+ */
+function openAgiSentientSystem() {
+    window.open("https://tharahuokaing.github.io/agi_sentient/", "_blank");
 }
 
